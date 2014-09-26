@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="320"
+   id="svg3140"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="menu.svg">
+  <defs
+     id="defs3142" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="240.1751"
+     inkscape:cy="139.71179"
+     inkscape:document-units="px"
+     inkscape:current-layer="menu"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3145">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="menu">
+    <image
+       id="image3156"
+       xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_7.png"
+       height="320"
+       width="480" />
+    <g
+       id="stars">
+      <image
+         transform="translate(156.11933,217.52535)"
+         width="10"
+         height="11"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_13.png"
+         id="image3211" />
+      <image
+         transform="translate(226.36047,287.74111)"
+         width="17"
+         height="13"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_15.png"
+         id="image3325" />
+      <image
+         transform="translate(208.64726,144.79438)"
+         width="10"
+         height="11"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_13.png"
+         id="image3211-48" />
+      <image
+         transform="translate(412.69808,28.626833)"
+         width="10"
+         height="11"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_13.png"
+         id="image3211-0" />
+      <image
+         transform="translate(75.307123,48.829884)"
+         width="10"
+         height="11"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_13.png"
+         id="image3211-7" />
+      <image
+         transform="translate(201.09651,199.35276)"
+         width="15"
+         height="13"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_14.png"
+         id="image3282" />
+      <image
+         transform="translate(27.829955,101.35781)"
+         width="10"
+         height="11"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_13.png"
+         id="image3211-4" />
+      <image
+         transform="translate(329.86557,61.961868)"
+         width="10"
+         height="11"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_13.png"
+         id="image3211-1" />
+      <image
+         transform="translate(448.58388,105.40857)"
+         width="15"
+         height="13"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_14.png"
+         id="image3282-4" />
+      <image
+         transform="translate(294.03053,22.576067)"
+         width="15"
+         height="13"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_14.png"
+         id="image3282-5" />
+      <image
+         transform="translate(445.02296,262.98222)"
+         width="10"
+         height="11"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_13.png"
+         id="image3211-9" />
+      <image
+         transform="translate(71.807131,89.751213)"
+         width="17"
+         height="13"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_15.png"
+         id="image3325-5" />
+      <image
+         transform="translate(20.289348,28.131905)"
+         width="17"
+         height="13"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_15.png"
+         id="image3325-1" />
+      <image
+         transform="translate(127.35537,27.626831)"
+         width="15"
+         height="13"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_14.png"
+         id="image3282-2" />
+      <image
+         transform="translate(388.99502,266.5279)"
+         width="17"
+         height="13"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_15.png"
+         id="image3325-11" />
+      <image
+         transform="translate(352.62953,50.35526)"
+         width="17"
+         height="13"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_15.png"
+         id="image3325-7" />
+      <image
+         transform="translate(82.918802,238.24364)"
+         width="17"
+         height="13"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_15.png"
+         id="image3325-52" />
+      <image
+         transform="translate(187.43406,286.21572)"
+         width="10"
+         height="11"
+         xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_13.png"
+         id="image3211-8" />
+    </g>
+    <image
+       id="enter_to_start"
+       xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_11.png"
+       height="21"
+       width="175"
+       transform="translate(262.51785,280.71065)" />
+    <image
+       id="zoo"
+       xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_12.png"
+       height="102"
+       width="91"
+       transform="translate(97.436585,94.243609)" />
+    <image
+       id="player"
+       xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_9.png"
+       height="176"
+       width="109"
+       transform="translate(0,143.44166)" />
+    <image
+       id="title"
+       xlink:href="file:///J:/Ludum%20Dare/22-08-2012/art/game/gme_10.png"
+       height="86"
+       width="115"
+       transform="translate(173.31986,2.7435868)" />
+  </g>
+</svg>
